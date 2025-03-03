@@ -1,0 +1,8 @@
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\3.2P\BankSystem\BankSystem\bin\Debug\BankSystem.exe.config
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\3.2P\BankSystem\BankSystem\bin\Debug\BankSystem.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\3.2P\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\3.2P\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.AssemblyReference.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\3.2P\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\3.2P\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\3.2P\BankSystem\BankSystem\obj\Debug\BankSystem.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\3.2P\BankSystem\BankSystem\obj\Debug\BankSystem.pdb
