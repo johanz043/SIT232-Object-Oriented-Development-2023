@@ -1,0 +1,8 @@
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\5.2P\BankTransaction2\BankTransaction2\bin\Debug\BankTransaction2.exe.config
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\5.2P\BankTransaction2\BankTransaction2\bin\Debug\BankTransaction2.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\5.2P\BankTransaction2\BankTransaction2\bin\Debug\BankTransaction2.pdb
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\5.2P\BankTransaction2\BankTransaction2\obj\Debug\BankTransaction2.csproj.AssemblyReference.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\5.2P\BankTransaction2\BankTransaction2\obj\Debug\BankTransaction2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\5.2P\BankTransaction2\BankTransaction2\obj\Debug\BankTransaction2.csproj.CoreCompileInputs.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\5.2P\BankTransaction2\BankTransaction2\obj\Debug\BankTransaction2.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\5.2P\BankTransaction2\BankTransaction2\obj\Debug\BankTransaction2.pdb
