@@ -1,0 +1,8 @@
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.1P\6.1P Question 4\6.1P Question 4\bin\Debug\6.1P Question 4.exe.config
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.1P\6.1P Question 4\6.1P Question 4\bin\Debug\6.1P Question 4.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.1P\6.1P Question 4\6.1P Question 4\bin\Debug\6.1P Question 4.pdb
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.1P\6.1P Question 4\6.1P Question 4\obj\Debug\6.1P Question 4.csproj.AssemblyReference.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.1P\6.1P Question 4\6.1P Question 4\obj\Debug\6.1P Question 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.1P\6.1P Question 4\6.1P Question 4\obj\Debug\6.1P Question 4.csproj.CoreCompileInputs.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.1P\6.1P Question 4\6.1P Question 4\obj\Debug\6.1P Question 4.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.1P\6.1P Question 4\6.1P Question 4\obj\Debug\6.1P Question 4.pdb
