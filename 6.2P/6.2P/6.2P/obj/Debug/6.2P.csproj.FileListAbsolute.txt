@@ -1,0 +1,8 @@
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.2P\6.2P\6.2P\bin\Debug\6.2P.exe.config
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.2P\6.2P\6.2P\bin\Debug\6.2P.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.2P\6.2P\6.2P\bin\Debug\6.2P.pdb
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.2P\6.2P\6.2P\obj\Debug\6.2P.csproj.AssemblyReference.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.2P\6.2P\6.2P\obj\Debug\6.2P.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.2P\6.2P\6.2P\obj\Debug\6.2P.csproj.CoreCompileInputs.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.2P\6.2P\6.2P\obj\Debug\6.2P.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\6.2P\6.2P\6.2P\obj\Debug\6.2P.pdb
