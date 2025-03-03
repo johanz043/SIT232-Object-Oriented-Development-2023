@@ -1,0 +1,8 @@
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.1P\EmployeeProgram\EmployeeProgram\bin\Debug\EmployeeProgram.exe.config
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.1P\EmployeeProgram\EmployeeProgram\bin\Debug\EmployeeProgram.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.1P\EmployeeProgram\EmployeeProgram\bin\Debug\EmployeeProgram.pdb
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.1P\EmployeeProgram\EmployeeProgram\obj\Debug\EmployeeProgram.csproj.AssemblyReference.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.1P\EmployeeProgram\EmployeeProgram\obj\Debug\EmployeeProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.1P\EmployeeProgram\EmployeeProgram\obj\Debug\EmployeeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.1P\EmployeeProgram\EmployeeProgram\obj\Debug\EmployeeProgram.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.1P\EmployeeProgram\EmployeeProgram\obj\Debug\EmployeeProgram.pdb
