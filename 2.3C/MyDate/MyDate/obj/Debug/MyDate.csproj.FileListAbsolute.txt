@@ -1,0 +1,8 @@
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.3C\MyDate\MyDate\bin\Debug\MyDate.exe.config
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.3C\MyDate\MyDate\bin\Debug\MyDate.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.3C\MyDate\MyDate\bin\Debug\MyDate.pdb
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.3C\MyDate\MyDate\obj\Debug\MyDate.csproj.AssemblyReference.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.3C\MyDate\MyDate\obj\Debug\MyDate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.3C\MyDate\MyDate\obj\Debug\MyDate.csproj.CoreCompileInputs.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.3C\MyDate\MyDate\obj\Debug\MyDate.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\2.3C\MyDate\MyDate\obj\Debug\MyDate.pdb
