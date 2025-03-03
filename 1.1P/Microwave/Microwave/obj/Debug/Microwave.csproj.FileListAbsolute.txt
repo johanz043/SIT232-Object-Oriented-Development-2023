@@ -1,0 +1,8 @@
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.1P\Microwave\Microwave\bin\Debug\Microwave.exe.config
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.1P\Microwave\Microwave\bin\Debug\Microwave.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.1P\Microwave\Microwave\bin\Debug\Microwave.pdb
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.1P\Microwave\Microwave\obj\Debug\Microwave.csproj.AssemblyReference.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.1P\Microwave\Microwave\obj\Debug\Microwave.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.1P\Microwave\Microwave\obj\Debug\Microwave.csproj.CoreCompileInputs.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.1P\Microwave\Microwave\obj\Debug\Microwave.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.1P\Microwave\Microwave\obj\Debug\Microwave.pdb
