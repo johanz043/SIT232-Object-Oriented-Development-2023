@@ -1,0 +1,8 @@
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.2P\1.2P Part 4\1.2P Part 4\bin\Debug\1.2P Part 4.exe.config
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.2P\1.2P Part 4\1.2P Part 4\bin\Debug\1.2P Part 4.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.2P\1.2P Part 4\1.2P Part 4\bin\Debug\1.2P Part 4.pdb
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.2P\1.2P Part 4\1.2P Part 4\obj\Debug\1.2P Part 4.csproj.AssemblyReference.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.2P\1.2P Part 4\1.2P Part 4\obj\Debug\1.2P Part 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.2P\1.2P Part 4\1.2P Part 4\obj\Debug\1.2P Part 4.csproj.CoreCompileInputs.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.2P\1.2P Part 4\1.2P Part 4\obj\Debug\1.2P Part 4.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\1.2P\1.2P Part 4\1.2P Part 4\obj\Debug\1.2P Part 4.pdb
