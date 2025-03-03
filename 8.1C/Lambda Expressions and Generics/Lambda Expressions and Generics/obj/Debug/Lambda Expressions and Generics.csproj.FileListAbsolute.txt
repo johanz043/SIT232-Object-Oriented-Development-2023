@@ -1,0 +1,8 @@
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\8.1C\Lambda Expressions and Generics\Lambda Expressions and Generics\obj\Debug\Lambda Expressions and Generics.csproj.AssemblyReference.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\8.1C\Lambda Expressions and Generics\Lambda Expressions and Generics\obj\Debug\Lambda Expressions and Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\8.1C\Lambda Expressions and Generics\Lambda Expressions and Generics\obj\Debug\Lambda Expressions and Generics.csproj.CoreCompileInputs.cache
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\8.1C\Lambda Expressions and Generics\Lambda Expressions and Generics\bin\Debug\Lambda Expressions and Generics.exe.config
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\8.1C\Lambda Expressions and Generics\Lambda Expressions and Generics\bin\Debug\Lambda Expressions and Generics.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\8.1C\Lambda Expressions and Generics\Lambda Expressions and Generics\bin\Debug\Lambda Expressions and Generics.pdb
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\8.1C\Lambda Expressions and Generics\Lambda Expressions and Generics\obj\Debug\Lambda Expressions and Generics.exe
+C:\Users\Johanz\Desktop\DEAKIN CLASSES\Trimester 2\SIT232 - Object Oriented Development\8.1C\Lambda Expressions and Generics\Lambda Expressions and Generics\obj\Debug\Lambda Expressions and Generics.pdb
